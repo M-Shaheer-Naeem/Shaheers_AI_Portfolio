@@ -1,0 +1,92 @@
+- generic [ref=f4e1]:
+  - generic [ref=f4e11]:
+    - button "Toggle theme" [ref=f4e13]
+    - button "Open portfolio assistant" [ref=f4e21]
+    - generic [ref=f4e25]:
+      - complementary [ref=f4e27]:
+        - generic [ref=f4e28]:
+          - generic [ref=f4e29]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=f4e30]
+          - paragraph [ref=f4e31]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=f4e33]:
+          - generic [ref=f4e38]:
+            - term [ref=f4e39]: Email
+            - definition [ref=f4e40]:
+              - link "shaheernaeem25@gmail.com" [ref=f4e41] [cursor=pointer]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=f4e46]:
+            - term [ref=f4e47]: Location
+            - definition [ref=f4e48]: Pakistan; Karachi/Sindh context
+          - generic [ref=f4e53]:
+            - term [ref=f4e54]: GitHub
+            - definition [ref=f4e55]:
+              - link "github.com/M-Shaheer-Naeem" [ref=f4e56] [cursor=pointer]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=f4e57]:
+        - navigation "Portfolio sections" [ref=f4e58]:
+          - button "about" [ref=f4e59]
+          - button "resume" [active] [ref=f4e60]
+          - button "projects" [ref=f4e61]
+          - button "contact" [ref=f4e62]
+        - generic [ref=f4e158]:
+          - generic [ref=f4e159]:
+            - generic [ref=f4e160]:
+              - generic [ref=f4e161]: "04"
+              - generic [ref=f4e162]: EDUCATION / SKILLS
+            - heading [level=2] [ref=f4e163]:
+              - text: Learning and
+              - emphasis [ref=f4e164]: building.
+            - paragraph [ref=f4e165]: Education, current study, and skills listed in my portfolio profile.
+          - generic [ref=f4e167]:
+            - generic [ref=f4e168]: EDUCATION
+            - generic [ref=f4e171]:
+              - article [ref=f4e172]:
+                - generic [ref=f4e173]: 2026–2027
+                - generic [ref=f4e175]:
+                  - heading "College" [level=3] [ref=f4e176]
+                  - paragraph [ref=f4e177]: Govt College for Men Nazimabad
+              - article [ref=f4e181]:
+                - generic [ref=f4e184]:
+                  - heading "Class/Degree" [level=3] [ref=f4e185]
+                  - paragraph [ref=f4e186]: "12"
+              - article [ref=f4e187]:
+                - generic [ref=f4e190]:
+                  - heading "Academic year" [level=3] [ref=f4e191]
+                  - paragraph [ref=f4e192]: 2026–2027
+              - article [ref=f4e193]:
+                - generic [ref=f4e196]:
+                  - heading "Program" [level=3] [ref=f4e197]
+                  - paragraph [ref=f4e198]: GIAIC (Governor Initiative for Artificial Intelligence Computing)
+              - article [ref=f4e199]:
+                - generic [ref=f4e202]:
+                  - heading "Current study" [level=3] [ref=f4e203]
+                  - paragraph [ref=f4e204]: Claude Code and Digital FDE
+              - article [ref=f4e205]:
+                - generic [ref=f4e208]:
+                  - heading "Program start" [level=3] [ref=f4e209]
+                  - paragraph [ref=f4e210]: "2023"
+              - article [ref=f4e211]:
+                - generic [ref=f4e214]:
+                  - heading "Expected completion" [level=3] [ref=f4e215]
+                  - paragraph [ref=f4e216]: End of 2026
+          - generic [ref=f4e217]:
+            - generic [ref=f4e218]:
+              - generic [ref=f4e219]: "05"
+              - generic [ref=f4e220]: SKILLS & TECHNOLOGY
+            - generic [ref=f4e221]:
+              - generic [ref=f4e222]: Python for agents and agentic AI
+              - generic [ref=f4e223]: TypeScript
+              - generic [ref=f4e224]: HTML
+              - generic [ref=f4e225]: CSS
+              - generic [ref=f4e226]: Next.js
+              - generic [ref=f4e227]: Docker and AI-driven development
+              - generic [ref=f4e228]: building RAG systems
+              - generic [ref=f4e229]: Next.js 16
+              - generic [ref=f4e230]: React 19
+              - generic [ref=f4e231]: Tailwind CSS v4
+              - generic [ref=f4e232]: shadcn/base-nova with Base UI
+              - generic [ref=f4e233]: Framer Motion
+              - generic [ref=f4e234]: Three.js/R3F/drei
+              - generic [ref=f4e235]: GSAP
+  - button "Open Next.js Dev Tools" [ref=f4e152] [cursor=pointer]
+  - alert [ref=f4e156]

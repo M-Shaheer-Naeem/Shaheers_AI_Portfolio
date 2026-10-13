@@ -1,0 +1,109 @@
+- generic [ref=f17e1]:
+  - generic [ref=f17e11]:
+    - button "Switch to dark mode" [ref=f17e164]
+    - generic [ref=f17e21]:
+      - region "Portfolio assistant" [ref=f17e168]:
+        - generic [ref=f17e169]:
+          - generic [ref=f17e175]:
+            - paragraph [ref=f17e176]: SHAHEER_AI
+            - paragraph [ref=f17e177]: PORTFOLIO_ASSISTANT
+          - generic [ref=f17e179]:
+            - button "Auto-Voice off" [ref=f17e180]: AUTO OFF
+            - button "Reset conversation" [ref=f17e185]
+            - button "Close assistant" [ref=f17e189]
+        - generic [ref=f17e193]:
+          - generic [ref=f17e194]: ●
+          - text: "SESSION: ACTIVE"
+          - generic [ref=f17e195]: GEMINI 2.5 FLASH
+        - log "Conversation" [ref=f17e196]:
+          - generic [ref=f17e197]:
+            - generic [ref=f17e198]: ASSISTANT
+            - text: Hi, I'm Shaheer's portfolio assistant. Ask me about his projects, skills, or background.
+          - generic [ref=f17e227]:
+            - generic [ref=f17e228]: YOU
+            - text: Test unavailable response
+          - generic [ref=f17e229]:
+            - generic [ref=f17e230]: ASSISTANT
+            - generic "Generating response" [ref=f17e231]
+        - generic [ref=f17e210]:
+          - generic [ref=f17e211]: Ask the portfolio assistant
+          - generic [aria-hidden] [ref=f17e212]: ">_"
+          - textbox "Ask the portfolio assistant" [active] [ref=f17e213]:
+            - /placeholder: Ask about the work...
+          - button "Start voice input" [disabled] [ref=f17e214]
+          - button "Send message" [disabled] [ref=f17e218]
+        - paragraph [ref=f17e222]: Replies stream live · Press Enter to send
+      - button "Close portfolio assistant" [expanded] [ref=f17e223]
+    - generic [ref=f17e27]:
+      - complementary [ref=f17e29]:
+        - generic [ref=f17e30]:
+          - generic [ref=f17e31]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=f17e32]
+          - paragraph [ref=f17e33]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=f17e35]:
+          - generic [ref=f17e40]:
+            - term [ref=f17e41]: Age
+            - definition [ref=f17e42]: "16"
+          - generic [ref=f17e47]:
+            - term [ref=f17e48]: Email
+            - definition [ref=f17e49]:
+              - link "shaheernaeem25@gmail.com" [ref=f17e50]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=f17e55]:
+            - term [ref=f17e56]: Location
+            - definition [ref=f17e57]: Pakistan; Karachi/Sindh context
+          - generic [ref=f17e62]:
+            - term [ref=f17e63]: GitHub
+            - definition [ref=f17e64]:
+              - link "github.com/M-Shaheer-Naeem" [ref=f17e65]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=f17e66]:
+        - navigation "Portfolio sections" [ref=f17e67]:
+          - button "about" [ref=f17e68]
+          - button "resume" [ref=f17e69]
+          - button "projects" [ref=f17e70]
+          - button "contact" [ref=f17e71]
+        - generic [ref=f17e73]:
+          - generic [ref=f17e75]:
+            - generic [ref=f17e76]:
+              - generic [ref=f17e77]: "01"
+              - generic [ref=f17e78]: ABOUT ME
+            - generic [ref=f17e79]:
+              - heading "Shaheer Naeem" [level=2] [ref=f17e80]:
+                - generic [ref=f17e81]: Shaheer
+                - generic [ref=f17e82]: Naeem
+              - generic [ref=f17e83]:
+                - paragraph [ref=f17e84]: Full-Stack Developer | Agentic AI Developer
+                - paragraph [ref=f17e86]: I'm Shaheer Naeem, based in Pakistan; Karachi/Sindh context. I'm focused on full-stack development and agentic AI, and currently studying Claude Code and Digital FDE through GIAIC (Governor Initiative for Artificial Intelligence Computing).
+          - generic [ref=f17e87]:
+            - generic [ref=f17e88]: A / 02
+            - generic [ref=f17e89]:
+              - paragraph [ref=f17e90]: Interested in AI agents for small businesses, WhatsApp/email automation, AI research assistants, PDF-to-summary/action workflows, and agents for GitHub/tasks/docs. My skills and current technology stack include Python for agents and agentic AI, TypeScript, HTML, CSS, Next.js, Docker and AI-driven development, building RAG systems, Next.js 16, React 19, Tailwind CSS v4, shadcn/base-nova with Base UI, Framer Motion, Three.js/R3F/drei, GSAP.
+              - generic [ref=f17e91]:
+                - generic [ref=f17e92]: CURRENT FOCUS
+                - paragraph [ref=f17e93]: WhatsApp automation · Email automation · AI document/PDF processing · and more
+          - generic [ref=f17e95]:
+            - generic [ref=f17e96]:
+              - generic [ref=f17e97]: "03"
+              - generic [ref=f17e98]: AREAS OF INTEREST
+            - generic [ref=f17e99]:
+              - article [ref=f17e100]:
+                - generic [ref=f17e101]: "01"
+                - heading "WhatsApp automation" [level=3] [ref=f17e105]
+              - article [ref=f17e109]:
+                - generic [ref=f17e110]: "02"
+                - heading "Email automation" [level=3] [ref=f17e114]
+              - article [ref=f17e118]:
+                - generic [ref=f17e119]: "03"
+                - heading "AI document/PDF processing" [level=3] [ref=f17e123]
+              - article [ref=f17e127]:
+                - generic [ref=f17e128]: "04"
+                - heading "Backend/API development" [level=3] [ref=f17e132]
+              - article [ref=f17e136]:
+                - generic [ref=f17e137]: "05"
+                - heading "RAG systems" [level=3] [ref=f17e141]
+              - article [ref=f17e145]:
+                - generic [ref=f17e146]: "06"
+                - heading "AI-assisted development" [level=3] [ref=f17e150]
+  - button "Open Next.js Dev Tools" [ref=f17e159] [cursor=pointer]
+  - alert [ref=f17e163]

@@ -1,0 +1,93 @@
+- generic [active] [ref=f5e1]:
+  - status "Loading Shaheer Naeem portfolio" [ref=f5e2]:
+    - generic [ref=f5e4]:
+      - paragraph [ref=f5e5]: Independent developer / 2026
+      - heading "Shaheer Naeem" [level=1] [ref=f5e6]
+      - generic [ref=f5e7]:
+        - generic [ref=f5e8]: Selected work
+        - generic [ref=f5e9]: 0%
+  - generic [ref=f5e11]:
+    - button "Toggle theme" [ref=f5e13]
+    - button "Open portfolio assistant" [ref=f5e21]
+    - generic [ref=f5e25]:
+      - complementary [ref=f5e27]:
+        - generic [ref=f5e28]:
+          - generic [ref=f5e29]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=f5e30]
+          - paragraph [ref=f5e31]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=f5e33]:
+          - generic [ref=f5e38]:
+            - term [ref=f5e39]: Age
+            - definition [ref=f5e40]: "16"
+          - generic [ref=f5e45]:
+            - term [ref=f5e46]: Email
+            - definition [ref=f5e47]:
+              - link "shaheernaeem25@gmail.com" [ref=f5e48] [cursor=pointer]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=f5e53]:
+            - term [ref=f5e54]: Location
+            - definition [ref=f5e55]: Pakistan; Karachi/Sindh context
+          - generic [ref=f5e60]:
+            - term [ref=f5e61]: GitHub
+            - definition [ref=f5e62]:
+              - link "github.com/M-Shaheer-Naeem" [ref=f5e63] [cursor=pointer]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=f5e64]:
+        - navigation "Portfolio sections" [ref=f5e65]:
+          - button "about" [ref=f5e66]
+          - button "resume" [ref=f5e67]
+          - button "projects" [ref=f5e68]
+          - button "contact" [ref=f5e69]
+        - generic [ref=f5e71]:
+          - generic [ref=f5e72]:
+            - generic [ref=f5e73]:
+              - generic [ref=f5e74]: "01"
+              - generic [ref=f5e75]: ABOUT ME
+            - generic [ref=f5e76]:
+              - heading "Shaheer Naeem" [level=2] [ref=f5e77]
+              - generic [ref=f5e78]:
+                - paragraph [ref=f5e79]: Full-Stack Developer | Agentic AI Developer
+                - paragraph [ref=f5e81]: I'm Shaheer Naeem, based in Pakistan; Karachi/Sindh context. I'm focused on full-stack development and agentic AI, and currently studying Claude Code and Digital FDE through GIAIC (Governor Initiative for Artificial Intelligence Computing).
+          - generic [ref=f5e82]:
+            - generic [ref=f5e83]: A / 02
+            - generic [ref=f5e84]:
+              - paragraph [ref=f5e85]: Interested in AI agents for small businesses, WhatsApp/email automation, AI research assistants, PDF-to-summary/action workflows, and agents for GitHub/tasks/docs My skills and current technology stack include Python for agents and agentic AI, TypeScript, HTML, CSS, Next.js, Docker and AI-driven development, building RAG systems, Next.js 16, React 19, Tailwind CSS v4, shadcn/base-nova with Base UI, Framer Motion, Three.js/R3F/drei, GSAP.
+              - generic [ref=f5e86]:
+                - generic [ref=f5e87]: CURRENT FOCUS
+                - paragraph [ref=f5e88]: WhatsApp automation · Email automation · AI document/PDF processing · and more
+          - generic [ref=f5e89]:
+            - generic [ref=f5e90]:
+              - generic [ref=f5e91]: "03"
+              - generic [ref=f5e92]: AREAS OF INTEREST
+            - generic [ref=f5e93]:
+              - article [ref=f5e94]:
+                - generic [ref=f5e95]: "01"
+                - generic [ref=f5e98]:
+                  - heading "WhatsApp automation" [level=3] [ref=f5e99]
+                  - paragraph [ref=f5e100]: One of Shaheer's stated portfolio service interests.
+              - article [ref=f5e104]:
+                - generic [ref=f5e105]: "02"
+                - generic [ref=f5e108]:
+                  - heading "Email automation" [level=3] [ref=f5e109]
+                  - paragraph [ref=f5e110]: One of Shaheer's stated portfolio service interests.
+              - article [ref=f5e114]:
+                - generic [ref=f5e115]: "03"
+                - generic [ref=f5e118]:
+                  - heading "AI document/PDF processing" [level=3] [ref=f5e119]
+                  - paragraph [ref=f5e120]: One of Shaheer's stated portfolio service interests.
+              - article [ref=f5e124]:
+                - generic [ref=f5e125]: "04"
+                - generic [ref=f5e128]:
+                  - heading "Backend/API development" [level=3] [ref=f5e129]
+                  - paragraph [ref=f5e130]: One of Shaheer's stated portfolio service interests.
+              - article [ref=f5e134]:
+                - generic [ref=f5e135]: "05"
+                - generic [ref=f5e138]:
+                  - heading "RAG systems" [level=3] [ref=f5e139]
+                  - paragraph [ref=f5e140]: One of Shaheer's stated portfolio service interests.
+              - article [ref=f5e144]:
+                - generic [ref=f5e145]: "06"
+                - generic [ref=f5e148]:
+                  - heading "AI-assisted development" [level=3] [ref=f5e149]
+                  - paragraph [ref=f5e150]: One of Shaheer's stated portfolio service interests.
+  - button "Open Next.js Dev Tools" [ref=f5e159] [cursor=pointer]

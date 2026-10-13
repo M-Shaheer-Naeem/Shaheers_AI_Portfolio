@@ -1,0 +1,87 @@
+- generic [ref=f7e1]:
+  - generic [ref=f7e11]:
+    - button "Toggle theme" [ref=f7e13]
+    - button "Open portfolio assistant" [ref=f7e21]
+    - generic [ref=f7e25]:
+      - complementary [ref=f7e27]:
+        - generic [ref=f7e28]:
+          - generic [ref=f7e29]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=f7e30]
+          - paragraph [ref=f7e31]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=f7e33]:
+          - generic [ref=f7e38]:
+            - term [ref=f7e39]: Age
+            - definition [ref=f7e40]: "16"
+          - generic [ref=f7e45]:
+            - term [ref=f7e46]: Email
+            - definition [ref=f7e47]:
+              - link "shaheernaeem25@gmail.com" [ref=f7e48] [cursor=pointer]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=f7e53]:
+            - term [ref=f7e54]: Location
+            - definition [ref=f7e55]: Pakistan; Karachi/Sindh context
+          - generic [ref=f7e60]:
+            - term [ref=f7e61]: GitHub
+            - definition [ref=f7e62]:
+              - link "github.com/M-Shaheer-Naeem" [ref=f7e63] [cursor=pointer]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=f7e64]:
+        - navigation "Portfolio sections" [ref=f7e65]:
+          - button "about" [ref=f7e66]
+          - button "resume" [active] [ref=f7e67]
+          - button "projects" [ref=f7e68]
+          - button "contact" [ref=f7e69]
+        - generic [ref=f7e159]:
+          - generic [ref=f7e160]:
+            - generic [ref=f7e161]:
+              - generic [ref=f7e162]: "04"
+              - generic [ref=f7e163]: EDUCATION / SKILLS
+            - heading [level=2] [ref=f7e164]:
+              - text: Learning and
+              - emphasis [ref=f7e165]: building.
+            - paragraph [ref=f7e166]: Education, current study, and skills listed in my portfolio profile.
+          - generic [ref=f7e168]:
+            - generic [ref=f7e169]: EDUCATION
+            - generic [ref=f7e172]:
+              - generic [ref=f7e173]:
+                - term [ref=f7e174]: College
+                - definition [ref=f7e175]: Govt College for Men Nazimabad
+              - generic [ref=f7e176]:
+                - term [ref=f7e177]: Class/Degree
+                - definition [ref=f7e178]: "12"
+              - generic [ref=f7e179]:
+                - term [ref=f7e180]: Academic year
+                - definition [ref=f7e181]: 2026–2027
+              - generic [ref=f7e182]:
+                - term [ref=f7e183]: Program
+                - definition [ref=f7e184]: GIAIC (Governor Initiative for Artificial Intelligence Computing)
+              - generic [ref=f7e185]:
+                - term [ref=f7e186]: Current study
+                - definition [ref=f7e187]: Claude Code and Digital FDE
+              - generic [ref=f7e188]:
+                - term [ref=f7e189]: Program start
+                - definition [ref=f7e190]: "2023"
+              - generic [ref=f7e191]:
+                - term [ref=f7e192]: Expected completion
+                - definition [ref=f7e193]: End of 2026
+          - generic [ref=f7e194]:
+            - generic [ref=f7e195]:
+              - generic [ref=f7e196]: "05"
+              - generic [ref=f7e197]: SKILLS & TECHNOLOGY
+            - generic [ref=f7e198]:
+              - generic [ref=f7e199]: Python for agents and agentic AI
+              - generic [ref=f7e200]: TypeScript
+              - generic [ref=f7e201]: HTML
+              - generic [ref=f7e202]: CSS
+              - generic [ref=f7e203]: Next.js
+              - generic [ref=f7e204]: Docker and AI-driven development
+              - generic [ref=f7e205]: building RAG systems
+              - generic [ref=f7e206]: Next.js 16
+              - generic [ref=f7e207]: React 19
+              - generic [ref=f7e208]: Tailwind CSS v4
+              - generic [ref=f7e209]: shadcn/base-nova with Base UI
+              - generic [ref=f7e210]: Framer Motion
+              - generic [ref=f7e211]: Three.js/R3F/drei
+              - generic [ref=f7e212]: GSAP
+  - button "Open Next.js Dev Tools" [ref=f7e153] [cursor=pointer]
+  - alert [ref=f7e157]

@@ -1,0 +1,38 @@
+- generic [active] [ref=f14e1]:
+  - main [ref=f14e2]:
+    - generic [ref=f14e3]:
+      - link "BACK TO PORTFOLIO" [ref=f14e4]:
+        - /url: /
+        - generic [aria-hidden] [ref=f14e5]: <-
+        - text: BACK TO PORTFOLIO
+      - generic [ref=f14e6]:
+        - generic [ref=f14e7]:
+          - paragraph [ref=f14e8]:
+            - generic [ref=f14e9]: "08"
+            - generic [ref=f14e10]: CONTACT / SHAHEER NAEEM
+          - heading [level=1] [ref=f14e11]:
+            - text: Let's make
+            - emphasis [ref=f14e12]: something useful.
+          - paragraph [ref=f14e13]: Have a project, an automation idea, or a question? Send a note and I'll get back to you.
+          - link "shaheernaeem25@gmail.com" [ref=f14e14]:
+            - /url: mailto:shaheernaeem25@gmail.com
+        - generic [ref=f14e15]:
+          - generic [ref=f14e17]:
+            - paragraph [ref=f14e18]: MESSAGE / SHAHEER
+            - heading "Tell me what you're building." [level=3] [ref=f14e19]
+          - generic [ref=f14e24]:
+            - generic [ref=f14e25]:
+              - text: Your name
+              - textbox "Your name" [ref=f14e26]:
+                - /placeholder: Name
+            - generic [ref=f14e27]:
+              - text: Email address
+              - textbox "Email address" [ref=f14e28]:
+                - /placeholder: you@example.com
+          - generic [ref=f14e29]:
+            - text: Project or message
+            - textbox "Project or message" [ref=f14e30]:
+              - /placeholder: A little context about what you have in mind...
+          - button "Send message" [ref=f14e31]
+  - button "Open Next.js Dev Tools" [ref=f14e40] [cursor=pointer]
+  - alert [ref=f14e44]

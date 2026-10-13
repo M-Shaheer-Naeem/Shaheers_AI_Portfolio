@@ -1,0 +1,78 @@
+- generic [ref=f18e1]:
+  - generic [ref=f18e11]:
+    - button "Switch to light mode" [pressed] [ref=f18e143]
+    - button "Open portfolio assistant" [ref=f18e15]:
+      - generic [ref=f18e18]: CHAT WITH AI
+    - generic [ref=f18e20]:
+      - complementary [ref=f18e307]:
+        - generic [ref=f18e308]:
+          - generic [ref=f18e309]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=f18e310]
+          - paragraph [ref=f18e311]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=f18e313]:
+          - generic [ref=f18e318]:
+            - term [ref=f18e319]: Age
+            - definition [ref=f18e320]: "16"
+          - generic [ref=f18e325]:
+            - term [ref=f18e326]: Email
+            - definition [ref=f18e327]:
+              - link "shaheernaeem25@gmail.com" [ref=f18e328]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=f18e333]:
+            - term [ref=f18e334]: Location
+            - definition [ref=f18e335]: Pakistan; Karachi/Sindh context
+          - generic [ref=f18e340]:
+            - term [ref=f18e341]: GitHub
+            - definition [ref=f18e342]:
+              - link "github.com/M-Shaheer-Naeem" [ref=f18e343]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=f18e59]:
+        - navigation "Portfolio sections" [ref=f18e60]:
+          - button "about" [active] [ref=f18e61]
+          - button "resume" [ref=f18e62]
+          - button "projects" [ref=f18e63]
+          - button "contact" [ref=f18e64]
+        - generic [ref=f18e400]:
+          - generic [ref=f18e402]:
+            - generic [ref=f18e403]:
+              - generic [ref=f18e404]: "01"
+              - generic [ref=f18e405]: ABOUT ME
+            - generic [ref=f18e406]:
+              - heading "Shaheer Naeem" [level=2] [ref=f18e407]:
+                - generic [ref=f18e408]: Shaheer
+                - generic [ref=f18e409]: Naeem
+              - generic [ref=f18e410]:
+                - paragraph [ref=f18e411]: Full-Stack Developer | Agentic AI Developer
+                - paragraph [ref=f18e413]: I'm Shaheer Naeem, based in Pakistan; Karachi/Sindh context. I'm focused on full-stack development and agentic AI, and currently studying Claude Code and Digital FDE through GIAIC (Governor Initiative for Artificial Intelligence Computing).
+          - generic [ref=f18e414]:
+            - generic [ref=f18e415]: A / 02
+            - generic [ref=f18e416]:
+              - paragraph [ref=f18e417]: Interested in AI agents for small businesses, WhatsApp/email automation, AI research assistants, PDF-to-summary/action workflows, and agents for GitHub/tasks/docs. My current toolkit includes Python for agents and agentic AI, TypeScript, HTML, CSS, Next.js; see my resume for the complete skills list.
+              - generic [ref=f18e418]:
+                - generic [ref=f18e419]: CURRENT FOCUS
+                - paragraph [ref=f18e420]: WhatsApp automation · Email automation · AI document/PDF processing · and more
+          - generic [ref=f18e422]:
+            - generic [ref=f18e423]:
+              - generic [ref=f18e424]: "03"
+              - generic [ref=f18e425]: AREAS OF INTEREST
+            - generic [ref=f18e426]:
+              - article [ref=f18e427]:
+                - generic [ref=f18e428]: "01"
+                - heading "WhatsApp automation" [level=3] [ref=f18e432]
+              - article [ref=f18e436]:
+                - generic [ref=f18e437]: "02"
+                - heading "Email automation" [level=3] [ref=f18e441]
+              - article [ref=f18e445]:
+                - generic [ref=f18e446]: "03"
+                - heading "AI document/PDF processing" [level=3] [ref=f18e450]
+              - article [ref=f18e454]:
+                - generic [ref=f18e455]: "04"
+                - heading "Backend/API development" [level=3] [ref=f18e459]
+              - article [ref=f18e463]:
+                - generic [ref=f18e464]: "05"
+                - heading "RAG systems" [level=3] [ref=f18e468]
+              - article [ref=f18e472]:
+                - generic [ref=f18e473]: "06"
+                - heading "AI-assisted development" [level=3] [ref=f18e477]
+  - button "Open Next.js Dev Tools" [ref=f18e134] [cursor=pointer]
+  - alert [ref=f18e142]
