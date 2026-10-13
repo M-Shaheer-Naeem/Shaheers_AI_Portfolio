@@ -1,9 +1,8 @@
-const fallbackOrigin = 'http://localhost:3000'
+const productionOrigin = 'https://shaheers-portfolio-nine.vercel.app'
 
 export function getSiteUrl(): URL {
   const configuredUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim()
-  const vercelUrl = process.env.VERCEL_URL?.trim()
-  const origin = configuredUrl || (vercelUrl ? `https://${vercelUrl}` : fallbackOrigin)
+  const origin = configuredUrl || productionOrigin
 
   try {
     return new URL(origin)

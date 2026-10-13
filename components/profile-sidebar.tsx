@@ -1,4 +1,5 @@
 import { Cake, Github, Mail, MapPin } from 'lucide-react'
+import Image from 'next/image'
 import type { ChatbotProfileData } from '@/lib/chatbot'
 
 interface ProfileSidebarProps {
@@ -6,17 +7,17 @@ interface ProfileSidebarProps {
 }
 
 export function ProfileSidebar({ data }: ProfileSidebarProps) {
-  const initials = data.profile.name
-    .split(/\s+/)
-    .map((part) => part[0])
-    .join('')
-
   return (
     <aside className="profile-card h-fit w-full rounded-2xl border border-border bg-card p-5 md:p-6 lg:sticky lg:top-8 lg:w-80">
       <div className="flex flex-col items-center text-center">
-        <div className="mb-4 grid size-24 place-items-center rounded-3xl border border-accent/30 bg-accent/10 font-mono text-3xl text-accent md:size-28">
-          {initials}
-        </div>
+        <Image
+          src="/shaheer-naeem.png"
+          alt={`Portrait of ${data.profile.name}`}
+          width={112}
+          height={112}
+          priority
+          className="mb-4 size-24 rounded-3xl border border-accent/30 object-cover shadow-[0_0_28px_color-mix(in_oklch,var(--accent)_16%,transparent)] md:size-28"
+        />
         <h1 className="mb-2 text-xl font-bold text-foreground md:text-2xl">
           {data.profile.name}
         </h1>

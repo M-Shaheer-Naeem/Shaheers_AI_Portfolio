@@ -42,6 +42,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'Shaheer Naeem', url: 'https://github.com/M-Shaheer-Naeem' }],
   creator: 'Shaheer Naeem',
+  verification: process.env.GOOGLE_SITE_VERIFICATION
+    ? { google: process.env.GOOGLE_SITE_VERIFICATION.trim() }
+    : undefined,
   alternates: {
     canonical: '/',
   },

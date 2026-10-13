@@ -1,0 +1,83 @@
+- generic [active] [ref=e1]:
+  - status "Loading Shaheer Naeem portfolio" [ref=e2]:
+    - generic [ref=e4]:
+      - paragraph [ref=e5]: Independent developer / 2026
+      - heading "Shaheer Naeem" [level=1] [ref=e6]
+      - generic [ref=e7]:
+        - generic [ref=e8]: Selected work
+        - generic [ref=e9]: 0%
+  - generic [ref=e11]:
+    - button "Switch to light mode" [pressed] [ref=e13]
+    - button "Open portfolio assistant" [ref=e15]:
+      - generic [ref=e18]: CHAT WITH AI
+    - generic [ref=e20]:
+      - complementary [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: SN
+          - heading "Shaheer Naeem" [level=1] [ref=e25]
+          - paragraph [ref=e26]: Full-Stack Developer | Agentic AI Developer
+        - generic [ref=e28]:
+          - generic [ref=e33]:
+            - term [ref=e34]: Age
+            - definition [ref=e35]: "16"
+          - generic [ref=e40]:
+            - term [ref=e41]: Email
+            - definition [ref=e42]:
+              - link "shaheernaeem25@gmail.com" [ref=e43] [cursor=pointer]:
+                - /url: mailto:shaheernaeem25@gmail.com
+          - generic [ref=e48]:
+            - term [ref=e49]: Location
+            - definition [ref=e50]: Pakistan; Karachi/Sindh context
+          - generic [ref=e55]:
+            - term [ref=e56]: GitHub
+            - definition [ref=e57]:
+              - link "github.com/M-Shaheer-Naeem" [ref=e58] [cursor=pointer]:
+                - /url: https://github.com/M-Shaheer-Naeem
+      - main [ref=e59]:
+        - navigation "Portfolio sections" [ref=e60]:
+          - button "about" [ref=e61]
+          - button "resume" [ref=e62]
+          - button "projects" [ref=e63]
+          - button "contact" [ref=e64]
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - generic [ref=e69]:
+              - generic [ref=e70]: "01"
+              - generic [ref=e71]: ABOUT ME
+            - generic [ref=e72]:
+              - heading "Shaheer Naeem" [level=2] [ref=e73]:
+                - generic [ref=e74]: Shaheer
+                - generic [ref=e75]: Naeem
+              - generic [ref=e76]:
+                - paragraph [ref=e77]: Full-Stack Developer | Agentic AI Developer
+                - paragraph [ref=e79]: I'm Shaheer Naeem, based in Pakistan; Karachi/Sindh context. I'm focused on full-stack development and agentic AI, and currently studying Claude Code and Digital FDE through GIAIC (Governor Initiative for Artificial Intelligence Computing).
+          - generic [ref=e80]:
+            - generic [ref=e81]: A / 02
+            - generic [ref=e82]:
+              - paragraph [ref=e83]: Interested in AI agents for small businesses, WhatsApp/email automation, AI research assistants, PDF-to-summary/action workflows, and agents for GitHub/tasks/docs. My current toolkit includes Python for agents and agentic AI, TypeScript, HTML, CSS, Next.js; see my resume for the complete skills list.
+              - generic [ref=e84]:
+                - generic [ref=e85]: CURRENT FOCUS
+                - paragraph [ref=e86]: WhatsApp automation · Email automation · AI document/PDF processing · and more
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - generic [ref=e90]: "03"
+              - generic [ref=e91]: AREAS OF INTEREST
+            - generic [ref=e92]:
+              - article [ref=e93]:
+                - generic [ref=e94]: "01"
+                - heading "WhatsApp automation" [level=3] [ref=e98]
+              - article [ref=e102]:
+                - generic [ref=e103]: "02"
+                - heading "Email automation" [level=3] [ref=e107]
+              - article [ref=e111]:
+                - generic [ref=e112]: "03"
+                - heading "AI document/PDF processing" [level=3] [ref=e116]
+              - article [ref=e120]:
+                - generic [ref=e121]: "04"
+                - heading "Backend/API development" [level=3] [ref=e125]
+              - article [ref=e129]:
+                - generic [ref=e130]: "05"
+                - heading "RAG systems" [level=3] [ref=e134]
+              - article [ref=e138]:
+                - generic [ref=e139]: "06"
+                - heading "AI-assisted development" [level=3] [ref=e143]
